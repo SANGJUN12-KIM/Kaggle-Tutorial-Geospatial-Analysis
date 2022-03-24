@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 input/geospatial-learn-course-data/NYPD_Motor_Vehicle_Collisions/NYPD_Motor_Vehicle_Collisions filter=lfs diff=lfs merge=lfs -text
+input/geospatial-learn-course-data/NYPD_Motor_Vehicle_Collisions/NYPD_Motor_Vehicle_Collisions/NYPD_Motor_Vehicle_Collisions.dbf filter=lfs diff=lfs merge=lfs -text
+input/geospatial-learn-course-data/SAPA_Aug2019-shapefile/SAPA_Aug2019-shapefile/SAPA_Aug2019-shapefile-polygons.shp filter=lfs diff=lfs merge=lfs -text
