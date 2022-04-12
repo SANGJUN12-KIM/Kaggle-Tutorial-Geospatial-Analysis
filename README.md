@@ -10,5 +10,5 @@
 
 ### 4. Manipulationg Geospatial Data: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Geospatial-Analysis/blob/main/ManipulatingGeospatialData.ipynb) [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Geospatial-Analysis/blob/main/exercise-manipulating-geospatial-data.ipynb)
 
-~### 5. Proximity Analysis: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Geospatial-Analysis/blob/main/) [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Geospatial-Analysis/blob/main/)~
+### 5. Proximity Analysis: [Tutorial](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Geospatial-Analysis/blob/main/ProximityAnalysis.ipynb) [Exercise](https://github.com/SANGJUN12-KIM/Kaggle-Tutorial-Geospatial-Analysis/blob/main/exercise-proximity-analysis.ipynb)
 
